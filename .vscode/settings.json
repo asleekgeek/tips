@@ -1,4 +1,25 @@
 {
     "eslint.enable": false,
-    "vsicons.presets.angular": false
+    "vsicons.presets.angular": false,
+    "cSpell.words": [
+        "autosetuprebase",
+        "autosquash",
+        "autostash",
+        "branchname",
+        "committerdate",
+        "difftool",
+        "gitk",
+        "ignorecase",
+        "instaweb",
+        "mymaster",
+        "oneline",
+        "reflogs",
+        "shortlog",
+        "toplevel",
+        "unpushed",
+        "unstaged",
+        "Unstaging",
+        "whatchanged",
+        "worktree"
+    ]
 }
